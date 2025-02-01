@@ -63,7 +63,7 @@ Here are some screenshots of the application:
 
 2.  **Set Up the Database:**
      * Make sure your database server (such as MySQL) is running.
-     *   Create a database named `librarydb`.
+     *   Create a database named `library`.
 
 3. **Import the Project**
     * Open the project in your IDE. If your IDE prompts you to import or build, accept the default prompts.
