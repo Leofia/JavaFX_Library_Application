@@ -16,41 +16,41 @@ This is a JavaFX-based library management application built using JPA for databa
 
 Here are some screenshots of the application:
 
-### Login Screen
+### Login Screen:
 ![image](https://github.com/user-attachments/assets/eed98f61-354a-4be2-8e5c-c28d95ced5d2)
 
 
-### Main Screen
+### Main Screen:
 ![image](https://github.com/user-attachments/assets/5175a98a-380b-4970-a8ed-f3fc601ed1cf)
 
 
-### Search Book
+### Search Book:
 ![image](https://github.com/user-attachments/assets/72d90015-9098-4814-a2c6-30ca06ac494d)
 
 
-### Borrow Book
+### Borrow Book:
 ![image](https://github.com/user-attachments/assets/f0bfe53e-b028-4cb3-94d2-2453d2b55972)
 
 
-### Return Book
+### Return Book:
 ![image](https://github.com/user-attachments/assets/39d9f5e2-331f-4638-a082-31c5f3b1a092)
 
 
-### Display Borrowed and Previously Borrowed Books
+### Display Borrowed and Previously Borrowed Books:
 ![image](https://github.com/user-attachments/assets/df17735d-77a1-44a3-b021-ee4486915149)
 
-### Read Online
+### Read Online:
 ![image](https://github.com/user-attachments/assets/80c8a884-2077-4a5c-a70a-99143ec71a55)
 
 
-### Display Friend List
+### Display Friend List:
 ![image](https://github.com/user-attachments/assets/30e5731d-1d14-4fb6-b3e1-d9b8c6ada987)
 
-### Display Friend Requests
+### Display Friend Requests:
 ![image](https://github.com/user-attachments/assets/51ac2445-ba17-456c-adb7-ad56551442ba)
 
 
-### See Friends' Borrowed Books
+### See Friends' Borrowed Books:
 ![image](https://github.com/user-attachments/assets/325f7cd9-a25f-44fc-8b90-3aca91e830dc)
 
 
